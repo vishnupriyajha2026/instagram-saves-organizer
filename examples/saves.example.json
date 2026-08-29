@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reel:DEMO_RESEARCH_01",
+    "type": "reel",
+    "shortcode": "DEMO_RESEARCH_01",
+    "url": "https://www.instagram.com/reel/DEMO_RESEARCH_01/",
+    "title": "A strong visual hook worth studying",
+    "creator": "sample_creator",
+    "note": "The product appears before the explanation. Test this opening structure.",
+    "tags": ["hooks", "visual storytelling"],
+    "status": "inbox",
+    "addedAt": "2026-08-28T10:00:00.000Z"
+  },
+  {
+    "id": "p:DEMO_FORMAT_02",
+    "type": "post",
+    "shortcode": "DEMO_FORMAT_02",
+    "url": "https://www.instagram.com/p/DEMO_FORMAT_02/",
+    "title": "Carousel structure for a complex idea",
+    "creator": "sample_brand",
+    "note": "One idea per slide, but the narrative keeps moving forward.",
+    "tags": ["carousel", "education"],
+    "status": "used",
+    "addedAt": "2026-08-27T10:00:00.000Z"
+  },
+  {
+    "id": "reel:DEMO_PROOF_03",
+    "type": "reel",
+    "shortcode": "DEMO_PROOF_03",
+    "url": "https://www.instagram.com/reel/DEMO_PROOF_03/",
+    "title": "Proof shown in the first five seconds",
+    "creator": "sample_marketer",
+    "note": "Useful reference for showing the result before explaining the process.",
+    "tags": ["proof", "retention"],
+    "status": "inbox",
+    "addedAt": "2026-08-26T10:00:00.000Z"
+  }
+]
