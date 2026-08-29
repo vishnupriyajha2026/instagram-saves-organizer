@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Save Sorter workflow</title><desc id="desc">Instagram links become a private searchable idea library.</desc>
+  <rect width="1600" height="900" fill="#f6f1e8"/><rect x="55" y="55" width="1490" height="790" rx="38" fill="#fff" stroke="#292521" stroke-width="6"/>
+  <text x="115" y="155" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#1f1c19">Save Sorter</text>
+  <text x="118" y="210" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="#1f1c19">FROM RANDOM LINKS TO A RESEARCH LIBRARY</text>
+  <g font-family="Arial,sans-serif" fill="#1f1c19">
+    <g transform="translate(115 310)"><rect width="360" height="350" rx="30" fill="#8bd3ff" stroke="#292521" stroke-width="5"/><text x="32" y="55" font-size="24" font-weight="700">01  COLLECT</text><rect x="62" y="105" width="235" height="150" rx="20" fill="#fff" stroke="#292521" stroke-width="4"/><circle cx="180" cy="180" r="42" fill="#ff6b8a"/><path d="M165 153l48 27-48 27z" fill="#fff"/><text x="34" y="310" font-size="25" font-weight="700">Paste post + reel links</text></g>
+    <path d="M500 485h90" stroke="#292521" stroke-width="7"/><path d="M590 485l-24-18v36z" fill="#292521"/>
+    <g transform="translate(620 310)"><rect width="360" height="350" rx="30" fill="#d9f36b" stroke="#292521" stroke-width="5"/><text x="32" y="55" font-size="24" font-weight="700">02  ORGANIZE</text><g transform="translate(48 110)"><rect width="264" height="48" rx="10" fill="#fff" stroke="#292521" stroke-width="4"/><rect y="68" width="264" height="48" rx="10" fill="#fff" stroke="#292521" stroke-width="4"/><rect y="136" width="264" height="48" rx="10" fill="#fff" stroke="#292521" stroke-width="4"/></g><text x="35" y="310" font-size="25" font-weight="700">Tag, note + deduplicate</text></g>
+    <path d="M1005 485h90" stroke="#292521" stroke-width="7"/><path d="M1095 485l-24-18v36z" fill="#292521"/>
+    <g transform="translate(1125 310)"><rect width="360" height="350" rx="30" fill="#ffb4c4" stroke="#292521" stroke-width="5"/><text x="32" y="55" font-size="24" font-weight="700">03  RETRIEVE</text><circle cx="175" cy="172" r="72" fill="#fff" stroke="#292521" stroke-width="5"/><path d="M225 225l54 54" stroke="#292521" stroke-width="14" stroke-linecap="round"/><text x="36" y="310" font-size="25" font-weight="700">Search when you need it</text></g>
+  </g>
+  <rect x="115" y="735" width="1370" height="62" rx="31" fill="#292521"/><text x="800" y="775" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#fff">LOCAL BY DEFAULT • NO INSTAGRAM LOGIN • YOUR LIBRARY STAYS PRIVATE</text>
+</svg>
