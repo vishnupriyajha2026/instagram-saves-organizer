@@ -1,0 +1,15 @@
+{
+  "name": "instagram-saves-organizer",
+  "version": "1.0.0",
+  "description": "Turn scattered Instagram links into a private, searchable research library.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node cli.js demo",
+    "render": "node cli.js render"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
